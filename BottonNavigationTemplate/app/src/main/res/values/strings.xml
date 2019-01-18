@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottonNavigationTemplate</string>
+    <string name="title_home">fragment1</string>
+    <string name="title_dashboard">fragment2</string>
+    <string name="title_notifications">fragment3</string>
+
+    <string name="fragment1">Hello blank fragment1</string>
+    <string name="fragment2">Hello blank fragment2</string>
+    <string name="fragment3">Hello blank fragment3</string>
+</resources>
